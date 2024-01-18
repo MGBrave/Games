@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<a href="https://github.com/MGBrave/Games/blob/main/jogo-da-memoria-com-emojis-main/src/images/printemojis.png?raw=true"> <img src="https://github.com/MGBrave/Games/blob/main/jogo-da-memoria-com-emojis-main/src/images/printemojis.png?raw=true" /> </a>
+<a href="https://github.com/MGBrave/Games/blob/main/simulador-de-piano/prot1.png?raw=true"> <img src="https://github.com/MGBrave/Games/blob/main/simulador-de-piano/prot1.png?raw=true" /> </a>
 
 [](https://github.com/MGBrave/Games/blob/main/jogo-da-memoria-com-emojis-main/src/images/printemojis.png?raw=true)
 
