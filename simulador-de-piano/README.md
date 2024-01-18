@@ -7,11 +7,11 @@
 <br>
 <br>
 
-<a href="https://github.com/MGBrave/Games/blob/main/simulador-de-piano/prot1.png?raw=true" width="800"> <img src="https://github.com/MGBrave/Games/blob/main/simulador-de-piano/prot1.png?raw=true" width="800" /> </a>
+<a href="https://codepen.io/martageraldo/full/KKEmgWL0" target="_blank"> <img src="https://github.com/MGBrave/Games/blob/main/simulador-de-piano/prot1.png?raw=true" width="800" /> </a>
 
 <br>
 
-<a href="https://github.com/MGBrave/Games/blob/main/simulador-de-piano/prot2.png?raw=true" width="800"> <img src="https://github.com/MGBrave/Games/blob/main/simulador-de-piano/prot2.png?raw=true" width="800" /> </a>
+<a href="https://codepen.io/martageraldo/full/KKEmgWL"> <img src="https://github.com/MGBrave/Games/blob/main/simulador-de-piano/prot2.png?raw=true" width="800" /> </a>
 
 <br>
 <br>
