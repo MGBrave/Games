@@ -5,6 +5,6 @@
 * [3 - Jogo da memória](/genius-js-master/)
 * [4 - Jogo da memória com emojis](/jogo-da-memoria-com-emojis-main/)
 * [5 - Piano Simulator](/simulador-de-piano/)
-* [6 - Piano Simulator](/Yu-Gi-Oh!/)
+* [6 - Yu-Gi-Oh!](/Yu-Gi-Oh!/)
 
 
