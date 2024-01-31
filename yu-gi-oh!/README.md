@@ -9,13 +9,9 @@
 
 <a href="https://codepen.io/martageraldo/full/KKEmgWL0" target="_blank"> <img src="https://github.com/MGBrave/Games/blob/main/yu-gi-oh!/Yu-Gi-Oh.png?raw=true" width="800" /> </a>
 
-<br>
 
-<a href="https://codepen.io/martageraldo/full/KKEmgWL"> <img src="" width="800" /> </a>
 
-<br>
 
-**[DEMO](https://codepen.io/martageraldo/full/KKEmgWL)**
 
 <br>
 
